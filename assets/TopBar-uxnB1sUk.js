@@ -1,0 +1,1 @@
+import{j as s}from"./index-B5-Mt33S.js";function d({title:a,sub:r,right:e,back:i=!1}){return s.jsxs("header",{className:"topbar",children:[s.jsxs("div",{children:[s.jsx("h1",{children:a}),r&&s.jsx("div",{className:"topbar__sub",children:r})]}),e&&s.jsx("div",{children:e})]})}export{d as T};
