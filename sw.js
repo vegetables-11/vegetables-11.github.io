@@ -2,7 +2,7 @@
  * 离线缓存 + Web Push 监听
  */
 /* eslint-disable no-restricted-globals */
-const CACHE_NAME = 'pwb-v2.3.1'
+const CACHE_NAME = 'pwb-v2.3.2'
 const CORE = ['/', '/manifest.json', '/icons/icon-192.png', '/icons/icon-512.png']
 
 self.addEventListener('install', (e) => {
